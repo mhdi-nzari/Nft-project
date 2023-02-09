@@ -15,7 +15,9 @@ Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 <br />
 <br />
 <br />
+
 # What did I learn in this project?
+<br />
 
 ✅ Working with filters and related hooks <br />
 ✅ Structure of projects and folders in React <br />
