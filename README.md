@@ -1,14 +1,15 @@
 # 💰 Responsive React NFT Marketplace Website Using ReactJs
-
-
-
-
+##
+##
+##
+##
 
 # ⏰ Project construction time
 
 Thursday, February 09, 2023 | time spent : 2 Day
-
-
+##
+##
+##
 # 🧂 Technology
 ⚡ Reactjs
 ⚡ React Router Dom
@@ -16,8 +17,10 @@ Thursday, February 09, 2023 | time spent : 2 Day
 ⚡ Scss
 ⚡ Styled Components
 ⚡ RemixIcons
-
-
+##
+##
+##
+##
 
 # What did I learn in this project?
 
