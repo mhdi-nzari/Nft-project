@@ -13,6 +13,10 @@ Thursday, February 09, 2023 | time spent : 2 Day
 ⚡ Scss
 ⚡ Styled Components
 ⚡ RemixIcons
+
+🧂 Technology |
+---- |
+Reactjs |
 <br />
 <br />
 <br />
