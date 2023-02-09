@@ -6,17 +6,9 @@ Thursday, February 09, 2023 | time spent : 2 Day
 <br />
 <br />
 <br />
-# 🧂 Technology
-⚡ Reactjs
-⚡ React Router Dom
-⚡ Webpack
-⚡ Scss
-⚡ Styled Components
-⚡ RemixIcons
-
-🧂 Technology |
----- |
-Reactjs |
+# 🧂 What technologies do I use?
+<br />
+Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 <br />
 <br />
 <br />
