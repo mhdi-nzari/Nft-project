@@ -2,9 +2,14 @@
 \
 \
 \
+
 # ⏰ Project construction time
 
 Thursday, February 09, 2023 | time spent : 2 Day
+\
+\
+\
+
 
 # 🧂 Technology
 ⚡ Reactjs
@@ -13,7 +18,10 @@ Thursday, February 09, 2023 | time spent : 2 Day
 ⚡ Scss
 ⚡ Styled Components
 ⚡ RemixIcons
-
+\
+\
+\
+\
 
 # What did I learn in this project?
 
