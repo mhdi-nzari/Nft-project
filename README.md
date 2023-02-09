@@ -8,7 +8,7 @@ Thursday, February 09, 2023 | time spent : 2 Day
 <br />
 # 🧂 What technologies do I use?
 
-
+#1 | #2 | #3 | #4 | #5 | #6
 Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 
 <br />
@@ -16,10 +16,10 @@ Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 <br />
 # What did I learn in this project?
 
-✅ Working with filters and related hooks
-✅ Structure of projects and folders in React
-✅ How to work with Styled Component
-✅ How to use React Router Dom v6
+✅ Working with filters and related hooks <br />
+✅ Structure of projects and folders in React <br />
+✅ How to work with Styled Component <br />
+✅ How to use React Router Dom v6 <br />
 <br />
 <br />
 <br />
