@@ -8,9 +8,10 @@ Thursday, February 09, 2023 | time spent : 2 Day
 <br />
 # 🧂 What technologies do I use?
 
-technologies | | #1 | #2 | #3 | #4 | #5 | 
---- | --- | --- | --- | --- | --- | 
+technologies 
+--- |
 Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
+
 <br />
 <br />
 <br />
