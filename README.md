@@ -27,8 +27,6 @@ Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 ✅ How to work with Styled Component <br />
 ✅ How to use React Router Dom v6 <br />
 <br />
- ![Nft portfolio](https://github.com/mhdi-nzari/Nft-project/blob/main/screencapture-nft.png)
-
 
 ## Local development
 
@@ -41,6 +39,11 @@ yarn
 # Start application, browser will open automatically
 npm start
 ```
+
+
+ ![Nft portfolio](https://github.com/mhdi-nzari/Nft-project/blob/main/screencapture-nft.png)
+
+
 
 
 
