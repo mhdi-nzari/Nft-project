@@ -17,8 +17,7 @@ Thursday, February 09, 2023 | time spent : 2 Day
 --- | --- | --- | --- |--- |--- |
 Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
 <br />
-<br />
-<br />
+
 
 # What did I learn in this project?
 
