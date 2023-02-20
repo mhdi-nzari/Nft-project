@@ -39,7 +39,7 @@ yarn
 # Start application, browser will open automatically
 npm start
 ```
-
+<br />
 
  ![Nft portfolio](https://github.com/mhdi-nzari/Nft-project/blob/main/screencapture-nft.png)
 
