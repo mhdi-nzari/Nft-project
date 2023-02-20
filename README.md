@@ -30,6 +30,17 @@ Reactjs | React Router Dom |  Webpack | Scss | Styled Components | RemixIcons
  ![Nft portfolio](https://github.com/mhdi-nzari/Nft-project/blob/main/screencapture-nft.png)
 
 
+## Local development
+
+To get started with application locally use these commands:
+
+```sh
+# Install dependencies
+yarn
+
+# Start application, browser will open automatically
+npm start
+```
 
 
 
