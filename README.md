@@ -1,8 +1,5 @@
-# 💰 Responsive React NFT Marketplace Website Using ReactJs 
+## 💰 Responsive React NFT Marketplace Website Using ReactJs 
 
-<br />
-<br />
-<br />
 
 # ⏰ Project construction time
 
@@ -33,10 +30,10 @@ To get started with application locally use these commands:
 
 ```sh
 # Install dependencies
-yarn
+npm i
 
 # Start application, browser will open automatically
-npm start
+npm run start
 ```
 <br />
 
